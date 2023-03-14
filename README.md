@@ -5,13 +5,13 @@ This laser engraver uses a 40W 450nm blue laser to engrave materials such as woo
 
 ## Build pics
 
-![](/build_pics/Machine.jpg)
+![](/build_pics/Machine.jpg | width=300)
 ![](/build_pics/Electronics_Housing_01.jpg)
 ![](/build_pics/Electronics_Housing_02.jpg)
 
 ## Simple Schematic
 
-![](/electronics/schematic_01.png)
+![](/electronics/schematic_01.PNG)
 
 ## Project examples
 
