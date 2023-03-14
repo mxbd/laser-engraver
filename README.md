@@ -1,2 +1,2 @@
-# laser_engraver
+# Laser Engraver
 Documentation for 10W DIY-Laser-Engraver
