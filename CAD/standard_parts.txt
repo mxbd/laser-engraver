@@ -1,0 +1,15 @@
+Connection - Standard Part
+
+lasermodule/backing plate - 2x M3x6
+backing plate/x-carriage - 4x M3x10 + 4x M3 washers
+x-pulley holder/x-rail - 1x M5x30 + 1x M5 nylock + 1x spacer + 2x M3x12
+x-carriage pulley posts - 2x M5x30 + 2x spacers + 2x D19mm washers + 2x M5 nylocks
+x-rail/xy-plate - 2x M3x28 + 2x M3 nylocks + 2xM3 washers
+Nema17/xy-plate - 4x M3x12 and 4x M3 washers
+idler pulley post - 1x M5x30 + 1x spacer + 1x M5 nylock
+belt-holder/extrusion - 2x M3x12 + 2x M3 t-nuts
+y-rail/extrusion - 2x M3x10
+x-rail/extrusion - 4x M3x12
+x-limit/xy-plate - 2x M3x10
+y-limit/y-rail - 1x M3x16 + 1x M3 nylock
+x-carriage/x-block - 4x M3x8
